@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @FoxxiAsh
-- 👀 I’m interested in learnign how to code and complete some of my dreams
-- 🌱 I’m not currently learning anything but im trying to get my self into coding possibly
 - 📫 How to reach me.. (I won't be leaving my info here)
 
 <!---
